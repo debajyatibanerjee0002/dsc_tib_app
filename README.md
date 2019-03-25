@@ -1,4 +1,4 @@
-# dsc_tib
+# Android App for DSC Techno International Batanagar 
 
 A new Flutter project.
 
